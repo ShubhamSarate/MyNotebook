@@ -15,7 +15,6 @@ const Login = (props) => {
       });
 
       const json = await response.json();
-      console.log(json);
 
       if (json.success && json.authtoken) {
         localStorage.setItem("token", json.authtoken);
