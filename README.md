@@ -30,6 +30,7 @@ MyNotebook is a full-stack **MERN (MongoDB, Express, React, Node.js)** web appli
 
 ```
 MyNotebook/
+|── assets/
 │── backend/
 │   ├── models/
 │   ├── routes/
@@ -105,17 +106,17 @@ npm run both
 ## 📸 Screenshots
 
 ### Login Page  
-![Login Page}(./assets/login.jpg)
+![Login Page](./assets/login.jpg)
 
 ### Update Page  
-![Login Page}(./assets/Update.jpg)
+![Login Page](./assets/Update.jpg)
 
 ### Users DB  
-![Login Page}(./assets/Users.jpg)
+![Login Page](./assets/Users.jpg)
 
 
 ### Notes DB  
-![Login Page}(./assets/Notes.jpg)
+![Login Page](./assets/Notes.jpg)
 
 ---
 
