@@ -1,5 +1,5 @@
 const mongoose = require('mongoose'); // npm i mongoose
-const mongoURI = "mongodb://localhost:27017/iNotebook"; // Copied from Mongo-Compass
+const mongoURI = "mongodb://localhost:27017/MyNotebook"; // Copied from Mongo-Compass
 
 const connectToMongo = async () => {
     try{
