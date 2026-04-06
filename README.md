@@ -104,14 +104,18 @@ npm run both
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard  
-_Add your screenshot here_
+### Login Page  
+![Login Page}(./assets/login.jpg)
 
-### 🔐 Login Page  
-_Add your screenshot here_
+### Update Page  
+![Login Page}(./assets/Update.jpg)
 
-### 📝 Notes UI  
-_Add your screenshot here_
+### Users DB  
+![Login Page}(./assets/Users.jpg)
+
+
+### Notes DB  
+![Login Page}(./assets/Notes.jpg)
 
 ---
 
